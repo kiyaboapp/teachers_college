@@ -1,0 +1,39 @@
+# Python virtual environment
+venv/
+env/
+*.venv/
+
+# Generated output files
+necta_results.json
+necta_summary.csv
+necta_div_summary.csv
+analysis.txt
+
+# Local HTML files for offline testing
+*.htm
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.log
+*.bak
+*.swp
+*.swo
+
+
