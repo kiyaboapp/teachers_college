@@ -1,6 +1,8 @@
 # NECTA Results Analyzer 📊
 
-A sleek Python tool to scrape and analyze NECTA (National Examinations Council of Tanzania) results, generating CSV summaries for subject grades and divisions by sex. Perfect for educators and administrators to dive into student performance data with ease. 🚀
+A sleek Python tool to scrape and analyze results, generating CSV summaries for subject grades and divisions by sex. Perfect for educators and administrators to dive into student performance data with ease. 🚀
+
+#BE MINDED THIS IS FOR EDUCATION ONLY AND USE AT YOUR OWN RISK
 
 ## Features ✨
 
